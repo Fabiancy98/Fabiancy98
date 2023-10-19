@@ -6,7 +6,7 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Moses</a> 👋
 
 <h2 align="center">
 I'm a Fullstack Developer 💻, Content Creator!
-</h2> 
+</h2>
 
 ### 🤝 Connect with me:
 
@@ -16,16 +16,18 @@ I'm a Fullstack Developer 💻, Content Creator!
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I’m currently working on ...
+
 -Fullstack Software Engineer
 -Web Development
 -Mobile app Development
 
 ## 🌱 I’m currently learning ...
+
 -Mongo DB
 -Node JS
--React 
+-React
 -Flutter
-_Ruby on Rails
+\_Ruby on Rails
 C language and python
 
 ## 💼 Technical Skills
@@ -45,13 +47,19 @@ C language and python
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
 [![Moses's github stats](https://github-readme-stats.vercel.app/api?username=Fabiancy98)](https://github.com/Fabiancy98)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiancy98&layout=compact)](https://github.com/Fabiancy98)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fabiancy98.Fabiancy98)](https://github.com/Fabiancy98)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabiancy98&" alt="Fabiancy98" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiancy98&label=Profile%20views&color=0e75b6&style=flat" alt="Fabiancy98" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fabiancy98" alt="Fabiancy98" /></a> </p>
 <!--
 **Fabiancy98/Fabiancy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
